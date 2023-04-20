@@ -1,6 +1,6 @@
 ### Hi, I'm Claire! 👋
 
-Check out my 👉[portfolio]👈(https://clairehwcho.github.io/portfolio-react-app/)! 
+Check out my 👉[portfolio](https://clairehwcho.github.io/portfolio-react-app/)👈! 
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
